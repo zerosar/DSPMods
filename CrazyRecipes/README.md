@@ -18,4 +18,4 @@ At the moment, there hasn't been time to check whether LDBTool recognizes recipe
 
 If a recipe with a specific ID is missing in the current game session, such a recipe will be automatically removed from the Recipes.xml file.
 
-I've noticed an issue with the production of matrices hanging. I'll fix this later.
+The issue with production hang-ups of matrices is currently resolved this way: changing matrix recipes in Recipes.xml won't alter the in-game recipes.
